@@ -12,7 +12,7 @@ consumes: {
     power: 0.9
     items: {
         items: [
-        jelly/3
+        jelly/2
         ]
     }
     liquid: {
