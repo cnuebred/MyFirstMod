@@ -1,0 +1,6 @@
+type: material 
+name: Plastic
+description: Best material for casing
+hardness: 4
+cost: 1
+alwaysUnlocked: true
