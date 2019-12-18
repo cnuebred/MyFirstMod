@@ -11,10 +11,13 @@ craftEffect: steam
 craftTime: 15
 consumes: {
     power: 2
-    items:[
-        copper/2
-        coal/1
+    items:{
+        items:[
+            copper/2
+            coal/1
     ]
+    }
+    
 }
 requirements: [
     copper/50
