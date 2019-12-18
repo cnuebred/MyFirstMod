@@ -1,0 +1,6 @@
+name: "first-mod"
+displayName: "[orange]My First[red]Mod" //what displays in the mod selection menu
+author: "Cube"
+description: "Good mod adjective something,[blue]I don't carre"
+version: "3.0"
+minGameVersion: "101"

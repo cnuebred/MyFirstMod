@@ -1,0 +1,30 @@
+name: Glue Factory
+description: Make quality glue
+type: GenericCrafter
+liquidCapacity: 50
+size: 2
+tier: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 25
+consumes: {
+    power: 0.9
+    items: {
+        items: [
+        jelly/3
+        ]
+    }
+    liquid: {
+        liquid: water
+        amount: 0.5
+        booster: true
+    }
+}
+requirements: [
+  copper/1000
+  lead/450
+  graphite/40
+]
+category: crafting 
+outputItem: glue/1

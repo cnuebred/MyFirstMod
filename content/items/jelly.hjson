@@ -1,0 +1,6 @@
+type: material 
+name: jelly
+description: greate material, but so sticky
+hardness: 3
+cost: 1
+alwaysUnlocked: true
