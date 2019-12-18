@@ -17,12 +17,12 @@ consumes: {
             silicon/2
             plastanium/1
         ]
+    }
     liquid: {
         liquid: water
         amount: 0.6
         booster: true
         optional: true
-    }
     }
     
 }
