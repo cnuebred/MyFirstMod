@@ -1,0 +1,25 @@
+name: Wire Factory
+description: Make copper wire for computer
+type: GenericCrafter
+liquidCapacity: 50
+size: 1
+tier: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftEffect: steam 
+craftTime: 15
+consumes: {
+    power: 2
+    items:[
+        copper/2
+        coal/1
+    ]
+}
+requirements: [
+    copper/50
+    lead/50
+    silicon/75
+]
+category: crafting 
+outputItem: wire-copper/1

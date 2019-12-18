@@ -1,0 +1,6 @@
+type: resource 
+name: copper wire
+description: You can use for create micro computer
+hardness: 3
+cost: 1
+alwaysUnlocked: true
