@@ -7,7 +7,7 @@ tier: 5
 hasPower: true
 hasLiquids: true
 craftEffect: magmasmoke    
-drillTime: 900
+drillTime: 50
 liquidBoostIntensity: 5.2
 warmupSpeed: 6.7
 drawMineItem: true
