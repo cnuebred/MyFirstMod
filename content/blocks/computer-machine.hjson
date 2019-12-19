@@ -14,7 +14,8 @@ consumes: {
     items: {
         items:[
             wire-copper/5
-            processor/2
+            processor/3
+            glue/10
         ]
     }
     liquid: {
