@@ -7,9 +7,9 @@ tier: 5
 hasPower: true
 hasLiquids: true
 craftEffect: magmasmoke    
-drillTime: 2
+drillTime: 20
 liquidBoostIntensity: 5.2
-warmupSpeed: 3.5
+warmupSpeed: 5.0
 drawMineItem: true
 rotateSpeed: 2
 consumes: {
@@ -22,9 +22,9 @@ consumes: {
     }
 }
 requirements: [
-    copper/1000
-    lead/1000
-    graphite/100
+    plastanium/450
+    graphite/600
+    phase fabric/600
     computer/50
 ]
 category: production 
