@@ -1,24 +1,24 @@
-name: Wire Factory
-description: Make copper wire for computer
+name: Computer works
+description: think harder
 type: GenericCrafter
 liquidCapacity: 50
-size: 1
+size: 3
 tier: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftEffect: steam 
-craftTime: 15
+craftEffect: bigShockwave   
+craftTime: 120
 consumes: {
-    power: 2
+    power: 5
     items: {
         items:[
-            copper/4
-            coal/1
+            wire-copper/5
+            processor/2
         ]
     }
     liquid: {
-        liquid: water
+        liquid: oil
         amount: 0.6
         booster: true
         optional: true
@@ -26,9 +26,10 @@ consumes: {
     
 }
 requirements: [
-    copper/50
-    lead/50
-    silicon/75
+    copper/1000
+    lead/450
+    graphite/40
+    silicon/100
 ]
 category: crafting 
-outputItem: wire-copper/1
+outputItem: computer/1

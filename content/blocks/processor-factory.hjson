@@ -1,20 +1,20 @@
-name: Wire Factory
-description: Make copper wire for computer
+name: Processor factory
+description: Just description
 type: GenericCrafter
 liquidCapacity: 50
-size: 1
+size: 2
 tier: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftEffect: steam 
-craftTime: 15
+craftEffect: melting   
+craftTime: 120
 consumes: {
-    power: 2
+    power: 3
     items: {
         items:[
-            copper/4
-            coal/1
+            wire-copper/5
+            plastic/1
         ]
     }
     liquid: {
@@ -26,9 +26,10 @@ consumes: {
     
 }
 requirements: [
-    copper/50
-    lead/50
-    silicon/75
+    copper/500
+    lead/100
+    titanium/150
+    graphite/500
 ]
 category: crafting 
-outputItem: wire-copper/1
+outputItem: processor/1

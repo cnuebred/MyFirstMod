@@ -1,0 +1,7 @@
+type: material 
+name: Computer
+description: I think... only this, but harder
+hardness: 4
+cost: 1
+alwaysUnlocked: true
+explosiveness: 2

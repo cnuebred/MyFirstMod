@@ -1,0 +1,7 @@
+type: material 
+name: Processor
+description: I think... only this
+hardness: 4
+cost: 1
+alwaysUnlocked: true
+explosiveness: 1
