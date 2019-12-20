@@ -8,15 +8,14 @@ hasPower: true
 hasLiquids: true
 craftEffect: magmasmoke    
 drillTime: 20
-liquidBoostIntensity: 5.2
-warmupSpeed: 5.0
+liquidBoostIntensity: 3.2
+warmupSpeed: 2
 drawMineItem: true
 rotateSpeed: 2
 consumes: {
-    power: 5
     liquid: {
         liquid: oil
-        amount: 0.6
+        amount: 0.9
         booster: true
         optional: true
     }
