@@ -1,2 +1,2 @@
-# MyFirstMod
- My first mod for mindustry
+# Mindustry mod
+nothing special
